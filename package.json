@@ -1,0 +1,16 @@
+{
+  "name": "far_processing_bot",
+  "version": "1.0.0",
+  "description": "Discord bot for FAR Processing",
+  "main": "app.js",
+  "author": "meowsome",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.7.0",
+    "dotenv": "^8.2.0",
+    "moment": "^2.29.1"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
